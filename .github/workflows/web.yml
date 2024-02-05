@@ -38,7 +38,7 @@ jobs:
       - name: Run test
         run: npm run coverage
 
-      - name: Build
+      - name: Build and deployment
         run: npm run build
 
       - name: Setup Pages
