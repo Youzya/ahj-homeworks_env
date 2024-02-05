@@ -14,7 +14,11 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "coursar",
+  "author": "mosius27",
+  "repository": {
+    "url": "https://github.com/mosius27/ahj-homeworks_env",
+    "type": "git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
