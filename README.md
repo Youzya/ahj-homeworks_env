@@ -1,1 +1,1 @@
-![CI](https://github.com/mosius27/ahj-homeworks_env/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/youzya/ahj-homeworks_env/actions/workflows/web.yml/badge.svg)
